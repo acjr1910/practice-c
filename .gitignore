@@ -1,1 +1,34 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
 *.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug / profiling
+*.gch
+*.pch
+*.gcno
+*.gcda
+*.gcov
+
+# Logs
+*.log
+
+# Editor / IDE junk
+*.swp
+*~
+.vscode/
+.idea/
+
+# Build directories (if you use make or cmake)
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
